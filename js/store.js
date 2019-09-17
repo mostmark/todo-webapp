@@ -4,7 +4,8 @@
 
     'use strict';
 
-    var serverUrl = 'http://todo-app.todo:8080/api/';
+    //var serverUrl = 'http://todo-app.todo:8080/api/';
+    var serverUrl = 'http://todo-app-todo.apps.martinostmark.com/api/';
 
     exports.todoStorage = {
         fetch: async function () {
